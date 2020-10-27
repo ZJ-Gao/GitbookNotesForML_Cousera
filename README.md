@@ -6,3 +6,4 @@ https://www.coursera.org/
 
 Link of original gitbook notes:
 https://cupgzj.gitbook.io/coursera-machine-learning-with-python/
+## All the copyrights of the graphs in my notes belong to coursera IBM Data Science Courses
